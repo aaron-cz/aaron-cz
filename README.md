@@ -1,4 +1,4 @@
-## Hi there 👋 and welcome, I'm Aaron Chen
+## Hi there 👋 and welcome, I'm Aaron Chen 😊
 
 <!--
 **aaron-cz/aaron-cz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
